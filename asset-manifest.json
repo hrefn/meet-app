@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hrefn/meet-app/static/css/main.073c9b0a.css",
+    "main.js": "/hrefn/meet-app/static/js/main.8ae7e666.js",
+    "static/js/787.4b564826.chunk.js": "/hrefn/meet-app/static/js/787.4b564826.chunk.js",
+    "service-worker.js": "/hrefn/meet-app/service-worker.js",
+    "static/media/logo.svg": "/hrefn/meet-app/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/hrefn/meet-app/index.html",
+    "main.073c9b0a.css.map": "/hrefn/meet-app/static/css/main.073c9b0a.css.map",
+    "main.8ae7e666.js.map": "/hrefn/meet-app/static/js/main.8ae7e666.js.map",
+    "787.4b564826.chunk.js.map": "/hrefn/meet-app/static/js/787.4b564826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8ae7e666.js"
+  ]
+}
